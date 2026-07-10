@@ -1,4 +1,3 @@
-# Deltagoon-pago
-MOD deltagoon
+# DeltaGOON
 
-quando terminarem de instalar o mod, reenomeie o arquivo de "data_ch1.win" para "data.win"
+Esse, é o mod DELTAGOON, onde Florianopolis (pode ou não) fica perto de Porn City, que por tabela também ta perto da macumba, baixa ai que é sucesso
